@@ -4,4 +4,3 @@ I'm a freelance web developer, senior DevOps engineer, [Google Developer Expert 
 
 I work at Dutch insurance company Nationale-Nederlanden. For more information about me, check out [rowdy.codes](https://rowdy.codes).
 
-### Hello Kira from JetBrains: 02102023/12732816 😬
